@@ -39,7 +39,7 @@ Ref: https://keepachangelog.com/en/1.0.0/
 
 ### Improvements
 
-## [v1.5.2] - 2021-03-03
+## [v1.5.2] - 2022-03-11
 
 * (modules/farm) [\#247](https://github.com/irisnet/irismod/pull/247) Add farm proposal
 * (modules/coinswap) [\#249](https://github.com/irisnet/irismod/pull/249) Add liquidity pool creation fee
